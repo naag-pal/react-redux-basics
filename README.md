@@ -1,4 +1,4 @@
-##Understanding the Redux Basics with ReactJS
+# Understanding the Redux Basics with ReactJS
 
 ## Installing Redux
 
